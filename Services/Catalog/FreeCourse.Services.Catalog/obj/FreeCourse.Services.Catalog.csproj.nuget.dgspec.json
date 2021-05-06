@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rasitsahin/Desktop/UdemyMicroService/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj": {}
+  },
+  "projects": {
+    "/Users/rasitsahin/Desktop/UdemyMicroService/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rasitsahin/Desktop/UdemyMicroService/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj",
+        "projectName": "FreeCourse.Services.Catalog",
+        "projectPath": "/Users/rasitsahin/Desktop/UdemyMicroService/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj",
+        "packagesPath": "/Users/rasitsahin/.nuget/packages/",
+        "outputPath": "/Users/rasitsahin/Desktop/UdemyMicroService/Services/Catalog/FreeCourse.Services.Catalog/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/rasitsahin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/rasitsahin/Desktop/UdemyMicroService/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj": {
+                "projectPath": "/Users/rasitsahin/Desktop/UdemyMicroService/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.12.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rasitsahin/Desktop/UdemyMicroService/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rasitsahin/Desktop/UdemyMicroService/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj",
+        "projectName": "FreeCourse.Shared",
+        "projectPath": "/Users/rasitsahin/Desktop/UdemyMicroService/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj",
+        "packagesPath": "/Users/rasitsahin/.nuget/packages/",
+        "outputPath": "/Users/rasitsahin/Desktop/UdemyMicroService/Shared/FreeCourse.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/rasitsahin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

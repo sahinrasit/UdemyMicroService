@@ -1,0 +1,9 @@
+/Users/rasitsahin/Desktop/UdemyMicroService/Shared/FreeCourse.Shared/obj/Debug/netcoreapp3.1/FreeCourse.Shared.csprojAssemblyReference.cache
+/Users/rasitsahin/Desktop/UdemyMicroService/Shared/FreeCourse.Shared/obj/Debug/netcoreapp3.1/FreeCourse.Shared.AssemblyInfoInputs.cache
+/Users/rasitsahin/Desktop/UdemyMicroService/Shared/FreeCourse.Shared/obj/Debug/netcoreapp3.1/FreeCourse.Shared.AssemblyInfo.cs
+/Users/rasitsahin/Desktop/UdemyMicroService/Shared/FreeCourse.Shared/obj/Debug/netcoreapp3.1/FreeCourse.Shared.csproj.CoreCompileInputs.cache
+/Users/rasitsahin/Desktop/UdemyMicroService/Shared/FreeCourse.Shared/bin/Debug/netcoreapp3.1/FreeCourse.Shared.deps.json
+/Users/rasitsahin/Desktop/UdemyMicroService/Shared/FreeCourse.Shared/bin/Debug/netcoreapp3.1/FreeCourse.Shared.dll
+/Users/rasitsahin/Desktop/UdemyMicroService/Shared/FreeCourse.Shared/bin/Debug/netcoreapp3.1/FreeCourse.Shared.pdb
+/Users/rasitsahin/Desktop/UdemyMicroService/Shared/FreeCourse.Shared/obj/Debug/netcoreapp3.1/FreeCourse.Shared.dll
+/Users/rasitsahin/Desktop/UdemyMicroService/Shared/FreeCourse.Shared/obj/Debug/netcoreapp3.1/FreeCourse.Shared.pdb
